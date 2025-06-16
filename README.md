@@ -13,6 +13,8 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## Git Commands
 
+### 1.
+
 ```bash
 git init
 git add .
@@ -20,4 +22,10 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/cauvery-digital/vite-weather-app.git
 git push -u origin main
+```
+
+### 2. 
+
+```bash
+git add . && git commit -m "first commit" && git push origin main
 ```
